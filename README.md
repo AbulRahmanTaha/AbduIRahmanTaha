@@ -31,36 +31,7 @@ const AbdulRahman = {
     "Docker",
     "System Design",
     "Problem Solving"
-  ],
-
-  technologies: {
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Next.js",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js"
-    ],
-
-    databases: [
-      "MongoDB",
-      "MySQL"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "Docker",
-      "Firebase",
-      "Figma"
-    ]
+  ]
   }
 };
 ```
